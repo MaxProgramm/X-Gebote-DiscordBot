@@ -1,0 +1,10 @@
+{
+  "bot_token": "PLACE_TOKEN_HERE",
+  "command_prefix": "!X",
+  "channels":
+  {
+    "user_input_channel_id": 0,
+    "bot_output_channel_id": 0
+  }
+
+}
